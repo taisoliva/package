@@ -1,10 +1,16 @@
 {
   "name": "@taisoliva/package",
-  "version": "1.0.1",
-  "main": "index.js",
-  "scripts": {},
+  "version": "1.0.2",
+  "main": "index.ts",
+   "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "author": "",
   "license": "ISC",
   "description": "",
-  "repository": "https://github.com/taisoliva/package"
+  "repository": "https://github.com/taisoliva/package",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
 }
