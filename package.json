@@ -2,6 +2,9 @@
   "name": "@taisoliva/github-packages",
   "version": "1.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "@taisoliva:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {},
   "author": "",
   "license": "ISC",
