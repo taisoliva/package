@@ -1,7 +1,7 @@
 {
   "name": "@taisoliva/package",
-  "version": "1.0.2",
-  "main": "src/index.ts",
+  "version": "1.0.3",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
