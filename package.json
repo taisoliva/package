@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "@taisoliva:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "dev": "pnpm ts-node src/index.ts",
     "build": "pnpm tsc",
