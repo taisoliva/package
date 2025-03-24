@@ -1,0 +1,24 @@
+{
+	"categories": [
+		{
+			"name": "blocks",
+			"blocks": [
+				{
+					"name": "utils",
+					"directory": "src/blocks/utils",
+					"category": "blocks",
+					"tests": false,
+					"subdirectory": true,
+					"list": true,
+					"files": [
+						"enums.ts"
+					],
+					"localDependencies": [],
+					"dependencies": [],
+					"devDependencies": [],
+					"_imports_": {}
+				}
+			]
+		}
+	]
+}
