@@ -1,12 +1,10 @@
 {
   "name": "@taisoliva/package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "publishConfig": {
-    "@taisoliva:registry": "https://npm.pkg.github.com"
-  },
   "scripts": {},
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": "https://github.com/taisoliva/package"
 }
