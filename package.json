@@ -1,20 +1,20 @@
 {
-	"name": "@taisoliva/package",
-	"version": "1.0.4",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
-	"scripts": {
-		"build": "tsc",
-		"build:registry": "jsrepo build"
-	},
-	"author": "",
-	"license": "ISC",
-	"description": "",
-	"repository": "https://github.com/taisoliva/package",
-	"dependencies": {
-		"typescript": "^5.8.2"
-	},
-	"devDependencies": {
-		"jsrepo": "^1.45.1"
-	}
+  "name": "@taisoliva/package",
+  "version": "1.0.4",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "build:enums": "jsrepo build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": "https://github.com/taisoliva/package",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "jsrepo": "^1.45.1"
+  }
 }
